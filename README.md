@@ -8,10 +8,10 @@ a Portfolio for Developer
 
 ## Screenshots
 
-![Screenshot_5](http://www.top4top.me/do.php?imgf=top4top_me38308dafc49d1.png)
+![Screenshot_5](https://github.com/Callmerev95/Modern-Portfolio/assets/154798324/ed986fe1-1d81-4fde-9ac6-0e42d636b5f9)
 Light Mode
 
-![Screenshot_6]([url=http://www.top4top.me/][img]http://www.top4top.me/do.php?imgf=top4top_me46ec0f6790332.png[/img][/url])
+![Screenshot_6](https://github.com/Callmerev95/Modern-Portfolio/assets/154798324/fd4b0bbc-dd51-475e-abcd-e93309dfba43)
 Dark Mode
 
 ## Live Demo
