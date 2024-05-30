@@ -8,15 +8,15 @@ a Portfolio for Developer
 
 ## Screenshots
 
-![Screenshot_5](https://github.com/Callmerev95/Modern-Portfolio/assets/154798324/ed986fe1-1d81-4fde-9ac6-0e42d636b5f9)
+![Screenshot_5](http://www.top4top.me/do.php?imgf=top4top_me38308dafc49d1.png)
 Light Mode
 
-![Screenshot_6](https://github.com/Callmerev95/Modern-Portfolio/assets/154798324/fd4b0bbc-dd51-475e-abcd-e93309dfba43)
+![Screenshot_6](http://www.top4top.me/do.php?imgf=top4top_me46ec0f6790332.png)
 Dark Mode
 
 ## Live Demo
 
-[Demo](https://callmerev95.github.io/Modern-Portfolio/)
+[Demo](https://nabzzvp.my.id/)
 
 
 ## Features
